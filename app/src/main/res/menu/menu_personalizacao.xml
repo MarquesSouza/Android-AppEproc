@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_tutorial"
+        android:title="Tutorial"
+        app:showAsAction="collapseActionView"
+        />
+    <item android:id="@+id/menu_alterar"
+        android:title="Alterar"
+        app:showAsAction="collapseActionView"
+        />
+    <item android:id="@+id/menu_ajuda"
+        android:title="Ajuda"
+        app:showAsAction="collapseActionView"
+        />
+    <item android:id="@+id/menu_autor"
+        android:title="Autor"
+        app:showAsAction="collapseActionView"
+        />
+
+</menu>
